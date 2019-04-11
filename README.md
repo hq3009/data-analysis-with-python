@@ -1,2 +1,2 @@
-# data-analysis-with-python
-用 Python 做数据分析
+# data-analysis-with-python-r
+jupyter notebooks about data analysis with python and r
